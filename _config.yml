@@ -1,3 +1,4 @@
-	name: Michael Agasi, hi
-	markdown: kramdown
-permalink: /blog/:2018/:10/:10/:Michael Agasi Hi
+name: Michael Agasi, hi
+markdown: kramdown
+permalink: /blog/:year/:month/:day/:title
+
