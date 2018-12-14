@@ -13,4 +13,4 @@ date: 2018-12-14
 (define rb1(rectangle 350 75 "solid" "red"))
 (define rb2(rectangle 75 175 "solid" "red"))
 ```
-![Flag Image](/images/flag.png
+![Flag Image](/images/flag.png)
